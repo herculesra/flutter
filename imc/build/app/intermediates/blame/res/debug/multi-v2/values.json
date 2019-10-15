@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/zeus/Área de Trabalho/flutter/calculo_imc/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/zeus/Área de Trabalho/flutter/calculo_imc/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu Oct 10 18:12:36 BRT 2019
+base.0=/home/zeus/Área de Trabalho/flutter/calculo_imc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
